@@ -1,4 +1,4 @@
-# Machine Learning Batch
+# Machine Learning Regularly Serializer
 
 機械学習の学習済みモデルのインスタンスを定期的にシリアライズする装置。  
 機械学習をバッチで動かし、学習結果をファイル出力。
